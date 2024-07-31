@@ -1,3 +1,3 @@
 # slide template
 
-A simple template repository that publishes to github pages.
+A simple template repository that publishes to GitHub pages.
