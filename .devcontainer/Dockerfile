@@ -1,4 +1,4 @@
-ARG VARIANT=20-bookworm
+ARG VARIANT=22-bookworm
 FROM mcr.microsoft.com/devcontainers/javascript-node:1-${VARIANT}
 
 RUN apt-get -y update \
